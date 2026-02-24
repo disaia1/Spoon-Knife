@@ -15,6 +15,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ** This text was also added by me **
 
-** This test was committed by Microsoft Code **
+** This test was committed in Microsoft Code **
 
 
